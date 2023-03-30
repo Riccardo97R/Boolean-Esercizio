@@ -1,0 +1,40 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.container{
+    width: 800px;
+    margin: auto;
+
+}
+
+header{
+    width: 800px;
+    text-align: center;
+    
+
+}
+
+
+
+.prenotazione{
+    text-align: center;
+    background-color: greenyellow;
+    padding: 10px;
+}
+
+.sfondo-monopattino{
+    background-color: orange;
+    width: 150px;
+}
+
+#fede{
+    background-color: greenyellow;
+    width: 250px;
+}
+
+#mike{
+    background-color: brown;
+    width: 25px;
+}
